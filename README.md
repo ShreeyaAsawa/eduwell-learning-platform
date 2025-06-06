@@ -53,7 +53,7 @@ Welcome to Eduwell, our Interactive Learning Website! This platform is designed 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/knightempire/learning.git
+   git clone https://github.com/ShreeyaAsawa/eduwell-learning-platform.git
 
 
 ## License
