@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Google Pay Payment</title>
+  <link rel="stylesheet" href="./css/gpay_pament.css">
+  
+
+</head>
+<body>
+  <!-- Include Google Pay JavaScript library -->
+  <script src="https://pay.google.com/gp/p/js/pay.js"></script>
+
+  <!-- HTML fragment -->
+  <div class="payment-details">
+    <h2>Pay to <span class="eduwell">Eduwell</span></h2>
+    <br><br>
+    <div class="amount-container">
+      <div class="amount-circle">&#8377;100</div>
+      <p class="amount">100</p>
+    </div>
+    <br><br>
+    <div id="googlePayButton"></div>
+    <div id="loader">Loading...</div>
+    <div id="thankYouMessage">
+      <h1>Thank you for your payment!</h1>
+    </div>
+  </div>
+
+  
+</body>
+</html>
+
+<script src="./js/gpay_pament.js"></script>
