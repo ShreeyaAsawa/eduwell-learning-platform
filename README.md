@@ -56,15 +56,6 @@ Welcome to Eduwell, our Interactive Learning Website! This platform is designed 
    git clone https://github.com/ShreeyaAsawa/eduwell-learning-platform.git
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-  
-
-In this template:
-
-MIT License: This is a permissive open-source license that allows users to do almost anything they want with the project, such as use, modify, and distribute it, as long as they include the original copyright and license notice in any copies of the software.
-
 
 
 
